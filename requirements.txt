@@ -1,0 +1,6 @@
+selenium
+bs4
+pandas
+openpyxl
+python-telegram-bot
+python-dotenv
